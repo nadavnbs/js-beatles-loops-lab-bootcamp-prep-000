@@ -6,10 +6,11 @@ function theBeatlesPlay(musiciansArray,instrumentsArray){
   return whoPlaysWhat
 }
 function johnLennonFacts(factsArray){
+  var newFacts = []
   var i = 0
-  while(i > factsArray.length){
-    factsArray.push(factsArray[i]+"!!!")
+  while(i < factsArray.length){
+    newFacts.push(factsArray[i]+"!!!")
     i++
   }
-  return factsArray
+  return newFacts
 }
