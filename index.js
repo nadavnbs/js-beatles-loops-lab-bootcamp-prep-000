@@ -14,3 +14,11 @@ function johnLennonFacts(factsArray){
   }
   return newFacts
 }
+function iLoveTheBeatles(num){
+  var array = []
+  do{
+    array.push()
+  }
+}
+
+
