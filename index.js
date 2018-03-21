@@ -5,3 +5,4 @@ function theBeatlesPlay(musiciansArray,instrumentsArray){
   }
   return whoPlaysWhat
 }
+function johnLennonFacts()
