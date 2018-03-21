@@ -1,3 +1,4 @@
 function theBeatlesPlay(musiciansArray,instrumentsArray){
-  var 
+  var whoPlaysWhat = []
+  
 }
